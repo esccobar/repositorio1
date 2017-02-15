@@ -17,8 +17,8 @@ public class PjtRepositorio1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo");
-        System.out.println("hola nico");
-        System.out.println("hola escobar");
+        System.out.println("hola nik");
+        System.out.println("hola niko");
+        System.out.println("hola ni");
     }
-    
 }
